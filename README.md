@@ -4,7 +4,7 @@ This project consists of a business card application in Kotlin developed during 
 
 - Clean Architecture
 - MVVM
-- Koin
+- Kotlin
 - Room 
 - Fragments
 - Navigation
