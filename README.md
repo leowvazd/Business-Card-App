@@ -1,4 +1,4 @@
-## Business Card App. :bust_in_silhouette:
+## Business Card App.
 
 This project consists of a business card application in Kotlin developed during Dio's Bootcamp. The following technologies were used:
 
